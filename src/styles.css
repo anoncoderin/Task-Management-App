@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 1rem 0.5rem;
+  box-shadow: 0 1px 1px #aeaeae;
+  padding: 1rem 0.5rem;
+}
+
+.todo button {
+  color: #fff;
+  border: none;
+  margin: 0 5px;
+}
+
+.edit-btn {
+  background: rgb(160, 157, 157);
+}
+
+.delete-btn {
+  background: rgb(241, 75, 75);
+}
+
+span {
+  margin-left: 1rem;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo {
+  box-shadow: 0 1px 1px #aeaeae;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 1rem 0.5rem;
+  padding: 1rem 0.5rem;
+}
+
+.todo button {
+  border: none;
+  color: #fff;
+  margin: 0 5px;
+}
+
+.edit-btn {
+  background: rgb(158, 150, 150);
+}
+
+.delete-btn {
+  background: rgb(245, 61, 61);
+}
+
+span {
+  margin-left: 1rem;
+}
+
+/*# sourceMappingURL=main.5a78dec0.css.map*/
